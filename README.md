@@ -7,7 +7,7 @@ Codes for the paper:<br />
 [TS-LSTM and Temporal-Inception: Exploiting Spatiotemporal Dynamics for Activity Recognition](http://arxiv.org/abs/1703.10667)
 
 Project: <br />
-[Activity Recognition with RNN and Temporal-ConvNet](https://ghassanalregib.com/multi-dimensional-lstm-and-temporal-convnet/)
+[Activity Recognition with RNN and Temporal-ConvNet](https://ghassanalregib.squarespace.com/human-action-recognition?p)
 
 ---
 ## Abstract
